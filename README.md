@@ -20,3 +20,30 @@ This is an Ecommerce web application built using the **MERN stack** (MongoDB, Ex
 - **State Management**: Redux for managing app state
 - **Payment Integration**: Stripe or PayPal (if integrated)
 - **Deployment**: Heroku or any other cloud platform (for both frontend and backend)
+
+
+# Milestone-1: **laying the Foundation**
+
+* Completed foundation for E-Commerce Application
+
+# Milestone-2: **Structuring the Project & UI Setup**
+
+* Separate folders for frontend and backend.
+* A functional Login Page in the frontend.
+* Completed setting for tailwind-css
+
+# Milestone-3: **Backend Configuration & Database Connection**
+
+* Organized the **backend folder structure** for scalability.
+* Connected the **server to MongoDB** using mongoose.
+* implemented **erroe-handling middleware** for API stability.
+
+# Milestone-4 : **User Management & File Handling**
+
+* Created the **user Model** in Mongoose to define user data structure.
+* Developed the **User Controller** to manage user authentication (signup, login).
+* Implemented **Multer for file handling**, allowing user profile and product image uploads.
+
+# Milestone-5 : **User registration & File Handling**
+* Created the **Sign up page** in react and added code for signup backend also.
+* Added the **Sign up page** validation in (signup, login).
